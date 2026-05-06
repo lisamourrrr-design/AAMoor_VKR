@@ -15,7 +15,7 @@
 3. Перейдите в папку проекта:
 
 ```powershell
-cd C:\Users\Александр\source\repos\VKR_Moor
+cd C:\Users\Username\source\repos\VKR_Moor
 ```
 
 4. Проверьте, что Docker отвечает:
